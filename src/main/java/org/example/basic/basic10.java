@@ -1,11 +1,23 @@
 package org.example.basic;
 
 public class basic10 {
-    public String solution(String my_string, String overwrite_string, int s) {
-        String answer = "";
+    class Solution {
+        public int[] solution(int numer1, int denom1, int numer2, int denom2) {
+            int a = (numer1 * denom2) + (numer2 * denom1);
+            int b = denom1 * denom2;
 
-        answer = my_string.substring(0,s) + overwrite_string + my_string.substring(s+overwrite_string.length());
+            int gcd = gcd(a, b);
 
-        return answer;
+            return new int[] {a / gcd, b / gcd};
+        }
+
+        private int gcd(int x, int y) {
+            while (y != 0) {
+                int temp = y;
+                y = x % y;
+                x = temp;
+            }
+            return x;
+        }
     }
 }
