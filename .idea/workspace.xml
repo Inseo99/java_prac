@@ -30,18 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Inseo99"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Inseo99&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Inseo99/java_prac.git",
-    "accountId": "c4fadbbc-ba72-4974-b86c-7438ed508974"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Inseo99/java_prac.git&quot;,
+    &quot;accountId&quot;: &quot;c4fadbbc-ba72-4974-b86c-7438ed508974&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -58,6 +58,10 @@
     "Application.basic2.executor": "Run",
     "Application.basic3.executor": "Run",
     "Application.basic5.executor": "Run",
+    "Application.basic6.executor": "Run",
+    "Application.basic7.executor": "Run",
+    "Application.basic8.executor": "Run",
+    "Application.basic9.executor": "Run",
     "Gradle.java_prac [:org.example.Main.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
