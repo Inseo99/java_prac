@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="25e85005-27e2-4f9e-a7ef-b5dc09ae9996" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basic/basic10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basic/basic10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,25 +51,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.LV2_1.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.basic2.executor": "Run",
-    "Application.basic3.executor": "Run",
-    "Application.basic5.executor": "Run",
-    "Application.basic6.executor": "Run",
-    "Application.basic7.executor": "Run",
-    "Application.basic8.executor": "Run",
-    "Application.basic9.executor": "Run",
-    "Gradle.java_prac [:org.example.Main.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/java_prac/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LV2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic9.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java_prac [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/java_prac/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
