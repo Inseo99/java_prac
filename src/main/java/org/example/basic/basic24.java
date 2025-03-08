@@ -1,15 +1,21 @@
 package org.example.basic;
 
 public class basic24 {
+    public static void main(String[] args) {
+
+    }
+
     class Solution {
         public int solution(int[] num_list) {
-            int answer = 0;
+            int sum = 0;
+            int product = 1;
 
-            for (int i = 0; i < num_list.length; i++) {
-                
+            for (int num : num_list) {
+                sum += num;
+                product *= num;
             }
 
-            return answer;
+            return (product < (sum * sum)) ? 1 : 0;
         }
     }
 }
