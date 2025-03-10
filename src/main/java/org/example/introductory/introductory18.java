@@ -7,6 +7,7 @@ public class introductory18 {
 
             for (int i = num_list.length - 1, j = 0; i >= 0; i--, j++) {
                 answer[j] = num_list[i];
+
             }
 
             return answer;
